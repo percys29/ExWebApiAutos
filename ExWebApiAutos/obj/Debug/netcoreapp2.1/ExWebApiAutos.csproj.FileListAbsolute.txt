@@ -1,0 +1,14 @@
+C:\Users\Tecsup\source\repos\ExWebApiAuto\ExWebApiAutos\bin\Debug\netcoreapp2.1\ExWebApiAutos.deps.json
+C:\Users\Tecsup\source\repos\ExWebApiAuto\ExWebApiAutos\bin\Debug\netcoreapp2.1\ExWebApiAutos.runtimeconfig.json
+C:\Users\Tecsup\source\repos\ExWebApiAuto\ExWebApiAutos\bin\Debug\netcoreapp2.1\ExWebApiAutos.runtimeconfig.dev.json
+C:\Users\Tecsup\source\repos\ExWebApiAuto\ExWebApiAutos\bin\Debug\netcoreapp2.1\ExWebApiAutos.dll
+C:\Users\Tecsup\source\repos\ExWebApiAuto\ExWebApiAutos\obj\Debug\netcoreapp2.1\ExWebApiAutos.csprojAssemblyReference.cache
+C:\Users\Tecsup\source\repos\ExWebApiAuto\ExWebApiAutos\obj\Debug\netcoreapp2.1\ExWebApiAutos.csproj.CoreCompileInputs.cache
+C:\Users\Tecsup\source\repos\ExWebApiAuto\ExWebApiAutos\obj\Debug\netcoreapp2.1\ExWebApiAutos.RazorAssemblyInfo.cache
+C:\Users\Tecsup\source\repos\ExWebApiAuto\ExWebApiAutos\obj\Debug\netcoreapp2.1\ExWebApiAutos.RazorAssemblyInfo.cs
+C:\Users\Tecsup\source\repos\ExWebApiAuto\ExWebApiAutos\obj\Debug\netcoreapp2.1\ExWebApiAutos.AssemblyInfoInputs.cache
+C:\Users\Tecsup\source\repos\ExWebApiAuto\ExWebApiAutos\obj\Debug\netcoreapp2.1\ExWebApiAutos.AssemblyInfo.cs
+C:\Users\Tecsup\source\repos\ExWebApiAuto\ExWebApiAutos\obj\Debug\netcoreapp2.1\ExWebApiAutos.RazorTargetAssemblyInfo.cache
+C:\Users\Tecsup\source\repos\ExWebApiAuto\ExWebApiAutos\bin\Debug\netcoreapp2.1\ExWebApiAutos.pdb
+C:\Users\Tecsup\source\repos\ExWebApiAuto\ExWebApiAutos\obj\Debug\netcoreapp2.1\ExWebApiAutos.dll
+C:\Users\Tecsup\source\repos\ExWebApiAuto\ExWebApiAutos\obj\Debug\netcoreapp2.1\ExWebApiAutos.pdb
